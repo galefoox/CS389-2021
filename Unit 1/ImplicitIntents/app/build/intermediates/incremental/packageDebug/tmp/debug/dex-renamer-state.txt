@@ -1,0 +1,4 @@
+#Mon Feb 15 00:18:39 EST 2021
+base.0=C\:\\Users\\Gala\\AndroidStudioProjects\\ImplicitIntents\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
