@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Feb 17 21:45:47 EST 2021
+#Wed Feb 17 22:21:32 EST 2021
 0.baseType=DIRECTORY
 0.base=C\:\\Users\\Gala\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex

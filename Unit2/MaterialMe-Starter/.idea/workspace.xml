@@ -25,6 +25,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1odJZzxe1lxANkmsuk7jP1rTU4o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -120,6 +127,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1613616078437" />
+    <state x="221" y="95" key="AndroidCreateResourceFileDialog" timestamp="1613618434867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="95" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1613618434867" />
     <state x="499" y="153" key="AndroidCreateXmlResourceDialog" timestamp="1613614884542">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
